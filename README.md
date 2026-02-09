@@ -98,15 +98,3 @@ We also include a **network-only** ranking variant that uses only:
 
 ---
 
-## Repository structure (recommended)
-```text
-.
-├── notebooks/
-│   └── SMA_Assignment1_G2.ipynb
-├── outputs/                # (optional) generated artifacts
-│   ├── parsed_tweets_edges.csv
-│   ├── centrality_by_person.csv
-│   └── *.html              # PyVis network graphs
-├── requirements.txt        # (optional) for local runs
-└── README.md
-
